@@ -57,9 +57,15 @@
 		<br />
         <h4> Descrição </h4>
 		<br />
-        
-        
-        
+		&nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; O Laboratório de Redes tem como objetivo fornecer uma estrutura multi disciplinar, integrada a um ambiente de simulação, para pesquisa, transferência de tecnologia e educação, na área de redes de computadores e suas aplicações, segurança de protocolos e linguagens de programação para redes. <br />
+        &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; Desenvolver modelos, produtos tecnologicos e linguagens de programação em áreas como redes de comunicação ópticas, redes TCP/IP, redes de sensores sem fios e redes de telefonia móvel. <br />
+        &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; Vereficar as pectos de segurança destas tecnologias, través de uso de métodos de simulação, métodos formais e testes experimentais, bom como novas linguagens de pro para sistemas distribuídos em rede. <br />
+        &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; Proporcionar a formação de recursos humanos (estudantes dos cursos de graduação e de pós-graduação), capacitação teórica, ( especificação e verificação de propriedades, análise da complexidade e capacitação em linguagem de programação para redes), e capacitação tecnológica, através de desenvolvimento de dispositivos inovadores, algoritmos, técnicas e processos.
+        "
 	</div>
 
 	<!-- 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
